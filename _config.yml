@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "William Murillo"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "William Murillo"
 description              : &description "personal description"
 url                      : https://WilliamM.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC07328.png"
+  avatar           : "Websitepic.png"
   name             : "William E. Murillo"
   pronouns         : # example: "she/her"  
   bio              : "Current gradute students working towards my masters in physics and hopefully applying to PhD programs"
