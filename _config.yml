@@ -12,7 +12,7 @@ title                    : "William Murillo"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://zevanik.github.io/WilliamM.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://WilliamM.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DSC07328.png"
   name             : "William E. Murillo"
   pronouns         : # example: "she/her"  
   bio              : "Current gradute students working towards my masters in physics and hopefully applying to PhD programs"
   location         : "Los Angeles, CA, USA"
-  employer         : "Red Brick University"
+  employer         : "California State University Los Angeles"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wmurill4@calstatela.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
