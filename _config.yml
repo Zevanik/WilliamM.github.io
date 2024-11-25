@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "William Murillo"
 title_separator          : "-"
 name                     : &name "William Murillo"
 description              : &description "personal description"
@@ -21,10 +21,10 @@ repository               : "ZeVaNiK/ZeVaNiK.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Websitepic.png"
+  avatar           : "profile.png"
   name             : "William E. Murillo"
   pronouns         : # example: "she/her"  
-  bio              : "Current gradute student working towards my masters in physics and hopefully applying to PhD programs."
+  bio              : "Hello I am currently a gradute student working towards my masters in physics and hopefully applying to PhD programs."
   location         : "Los Angeles, CA, USA"
   employer         : "California State University Los Angeles"
   uri              : # URL
