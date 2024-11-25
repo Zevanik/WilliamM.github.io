@@ -12,7 +12,7 @@ title                    : "William Murillo"
 title_separator          : "-"
 name                     : &name "William Murillo"
 description              : &description "personal description"
-url                      : https://WilliamM.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://WilliamM.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "Websitepic.png"
   name             : "William E. Murillo"
   pronouns         : # example: "she/her"  
-  bio              : "Current gradute students working towards my masters in physics and hopefully applying to PhD programs"
+  bio              : "Current gradute student working towards my masters in physics and hopefully applying to PhD programs."
   location         : "Los Angeles, CA, USA"
   employer         : "California State University Los Angeles"
   uri              : # URL
